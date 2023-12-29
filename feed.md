@@ -1,4 +1,6 @@
 ---
+home_page_url: https://lanfranco.me
+feed_url: 
 title: Alberto Lanfranco
 author: Alberto Lanfranco
 avatar: https://i.imgur.com/dluZ4v5.jpg
