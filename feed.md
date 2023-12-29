@@ -1,6 +1,6 @@
 ---
 home_page_url: https://lanfranco.me
-feed_url: 
+feed_url: https://raw.githubusercontent.com/alberto-lanfranco/personal-feed-md/main/feed.md
 title: Alberto Lanfranco
 author: Alberto Lanfranco
 avatar: https://i.imgur.com/dluZ4v5.jpg
